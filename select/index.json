@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "本能の復讐",
+  "base_artist": "ゲスの極み乙女",
+  "createdAt": "2026-02-24T13:13:12.930396Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本能の復讐",
+      "artist": "ゲスの極み乙女",
+      "has_synced": false,
+      "path": "select/pl_01_本能の復讐_ゲスの極み乙女.txt"
+    }
+  ]
+}
